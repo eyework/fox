@@ -1,7 +1,7 @@
 {
   "name": "fox",
   "description": "fox",
-  "start_url": "fox_uastc.glb",
+  "start_url": "myfox.glb",
   "components": [
     {
       "key": "physics",
