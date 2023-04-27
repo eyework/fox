@@ -1,7 +1,7 @@
 {
-  "name": "fox",
-  "description": "fox",
-  "start_url": "dio_run_01.glb",
+  "name": "dio",
+  "description": "woof",
+  "start_url": "dio_run_02.glb",
   "components": [
     {
       "key": "physics",
@@ -16,9 +16,9 @@
     {
       "key": "pet",
       "value": {
-        "idleAnimation": "",
+        "idleAnimation": "Walk",
         "walkAnimation": "Walk",
-        "runAnimation": "Walk"
+        "runAnimation": "Run"
       }
     }
   ]
