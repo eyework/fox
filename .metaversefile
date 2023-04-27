@@ -1,7 +1,7 @@
 {
   "name": "fox",
   "description": "fox",
-  "start_url": "myfox.glb",
+  "start_url": "dio_run.glb",
   "components": [
     {
       "key": "physics",
@@ -10,7 +10,7 @@
     {
       "key": "look",
       "value": {
-        "rootBone": "Neck_1"
+        "rootBone": "Body_Neck"
       }
     },
     {
@@ -18,7 +18,7 @@
       "value": {
         "idleAnimation": "",
         "walkAnimation": "Walk",
-        "runAnimation": ""
+        "runAnimation": "Walk"
       }
     }
   ]
