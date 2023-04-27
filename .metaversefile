@@ -10,7 +10,7 @@
     {
       "key": "look",
       "value": {
-        "rootBone": "Body_Neck"
+        "rootBone": "Body_Head"
       }
     },
     {
