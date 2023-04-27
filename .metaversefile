@@ -1,7 +1,7 @@
 {
   "name": "fox",
   "description": "fox",
-  "start_url": "dio_run.glb",
+  "start_url": "dio_run_01.glb",
   "components": [
     {
       "key": "physics",
